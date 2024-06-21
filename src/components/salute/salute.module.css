@@ -1,0 +1,12 @@
+.greeting {
+  width: 600px;
+  margin: 0 auto;
+  background-color: hotpink;
+  color: white;
+}
+
+.header {
+  font-size: 36px;
+  padding: 10px;
+  margin: 0;
+}
